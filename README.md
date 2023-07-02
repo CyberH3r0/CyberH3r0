@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberH3r0
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning Cyber Security offensive
-- 💞 Feel free to ask and learn or guide
+- 💞 Feel free to ask or guide
 - 📫 discord account -->  saad_ahmad
 
 <!---
