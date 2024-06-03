@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CyberH3r0
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning Cyber Security offensive
+- 👀 interested in Computers
+- 🌱 Currently learning Cyber Security offensive
 - 💞 Feel free to ask or guide
-- 📫 discord account -->  saad_ahmad
+- 📫 Discord account -->  saad_ahmad
 
 <!---
 CyberH3r0/CyberH3r0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
